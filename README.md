@@ -8,7 +8,7 @@ Replaces all sounds in Minecraft to what you desire via a resource pack.
 1. Open self-extractor and wait for it to finish.
 2. Place 'Minecraft_Sounds_Replacer' in the root of the C: Drive (Must be the C: Drive or else it won't work).
 3. Replace .ogg file with sound of choice (Must be in .ogg format).
-4. Run the batch file and wait patiently.
+4. Run the batch file (replacer.bat) and wait patiently.
 5. Edit the metadata if desired.
 6. Copy into the 'resourcepacks' folder in Minecraft.
 

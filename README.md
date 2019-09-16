@@ -3,6 +3,8 @@
 Replaces all sounds in Minecraft to what you desire via a resource pack.
 (WINDOWS ONLY!)
 
+To get this program [download here!](https://github.com/exurd/Minecraft-Sounds-Replacer/releases)
+
 ## How to use
 
 1. Open self-extractor and wait for it to finish.
@@ -10,7 +12,7 @@ Replaces all sounds in Minecraft to what you desire via a resource pack.
 3. Replace .ogg file (replace.ogg) with sound of choice (Must be in .ogg format).
 4. Run the batch file (replacer.bat) and wait patiently.
 5. Edit the metadata if desired.
-6. Copy into the 'resourcepacks' folder in Minecraft.
+6. Copy 'Replaced Sounds' (Only in [.exe](https://github.com/exurd/Minecraft-Sounds-Replacer/releases)) into the 'resourcepacks' folder in Minecraft.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
